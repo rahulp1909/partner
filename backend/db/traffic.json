@@ -1,0 +1,26 @@
+{
+  "1628486713610": {
+    "api_call": "getDetails",
+    "provider_name": "Partner 2",
+    "provider_id": 2,
+    "date": "1628486713610"
+  },
+  "1628486725186": {
+    "api_call": "getDetails",
+    "provider_name": "Partner 2",
+    "provider_id": 2,
+    "date": "1628486725186"
+  },
+  "1628486780580": {
+    "api_call": "getDetails",
+    "provider_name": "Partner 1",
+    "provider_id": 1,
+    "date": "1628486780580"
+  },
+  "1628574406566": {
+    "api_call": "getDetails",
+    "provider_name": "Partner 1",
+    "provider_id": 1,
+    "date": "1628574406566"
+  }
+}

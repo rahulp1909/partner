@@ -1,0 +1,12 @@
+{
+  "1": {
+    "name": "Partner 1",
+    "sceret": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUGFydG5lciAxIiwicHJvdmlkZXJJZCI6MSwiaWF0IjoxNjI4NDg1NzYwLCJleHAiOjE2MzEwNzc3NjB9.n2Y8hSKBfa3MgfeEO3Y5zynQOgwfnB9iUJC79xQuyP8",
+    "id": 1
+  },
+  "2": {
+    "name": "Partner 2",
+    "sceret": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiUGFydG5lciAyIiwicHJvdmlkZXJJZCI6MiwiaWF0IjoxNjI4NDg1Nzc3LCJleHAiOjE2MzEwNzc3Nzd9.BCH2hhmd4EP-JkS9is1kYya4TbbYBI3nBjtrJrFSB7c",
+    "id": 2
+  }
+}
